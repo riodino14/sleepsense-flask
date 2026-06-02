@@ -1,0 +1,27 @@
+{
+  "feature_cols": [
+    "age",
+    "gender",
+    "sleep_duration_hours",
+    "sleep_quality_score",
+    "daily_screen_time_hours",
+    "pre_sleep_screen_time_hours",
+    "physical_activity_minutes",
+    "caffeine_intake_cups",
+    "mental_fatigue_score",
+    "notifications_received_per_day",
+    "age_adult",
+    "age_teen",
+    "age_young_adult"
+  ],
+  "gender_map": {
+    "Male": 0,
+    "Female": 1,
+    "Other": 2
+  },
+  "agegroup_map": {
+    "13-18": 0,
+    "19-35": 1,
+    "36-59": 2
+  }
+}

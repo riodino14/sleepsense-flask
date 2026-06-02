@@ -1,0 +1,24 @@
+# Environment - JANGAN dicommit!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.eggs/
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Model files (besar, simpan di server/drive)
+models/*.keras
+models/sleepsense_savedmodel/
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
