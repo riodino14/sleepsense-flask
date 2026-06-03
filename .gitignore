@@ -13,8 +13,8 @@ __pycache__/
 venv/
 
 # Model files (besar, simpan di server/drive)
-models/*.keras
-models/sleepsense_savedmodel/
+# models/*.keras
+# models/sleepsense_savedmodel/
 
 # Docker
 *.log
